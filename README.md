@@ -1,6 +1,6 @@
 [![Latest Stable Version](http://poser.pugx.org/nguyenanhung/validation/v)](https://packagist.org/packages/nguyenanhung/validation) [![Total Downloads](http://poser.pugx.org/nguyenanhung/validation/downloads)](https://packagist.org/packages/nguyenanhung/validation) [![Latest Unstable Version](http://poser.pugx.org/nguyenanhung/validation/v/unstable)](https://packagist.org/packages/nguyenanhung/validation) [![License](http://poser.pugx.org/nguyenanhung/validation/license)](https://packagist.org/packages/nguyenanhung/validation) [![PHP Version Require](http://poser.pugx.org/nguyenanhung/validation/require/php)](https://packagist.org/packages/nguyenanhung/validation)
 
-# Validation class
+# Validation Library
 
 Is a standalone PHP data validation and filtering class that makes validating any data easy and painless without the reliance on a framework.
 GUMP is open-source since 2013.
