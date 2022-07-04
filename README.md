@@ -1,4 +1,4 @@
-[![Latest Stable Version](http://poser.pugx.org/nguyenanhung/template-php-lib/v)](https://packagist.org/packages/nguyenanhung/template-php-lib) [![Total Downloads](http://poser.pugx.org/nguyenanhung/template-php-lib/downloads)](https://packagist.org/packages/nguyenanhung/template-php-lib) [![Latest Unstable Version](http://poser.pugx.org/nguyenanhung/template-php-lib/v/unstable)](https://packagist.org/packages/nguyenanhung/template-php-lib) [![License](http://poser.pugx.org/nguyenanhung/template-php-lib/license)](https://packagist.org/packages/nguyenanhung/template-php-lib) [![PHP Version Require](http://poser.pugx.org/nguyenanhung/template-php-lib/require/php)](https://packagist.org/packages/nguyenanhung/template-php-lib)
+[![Latest Stable Version](http://poser.pugx.org/nguyenanhung/validation/v)](https://packagist.org/packages/nguyenanhung/validation) [![Total Downloads](http://poser.pugx.org/nguyenanhung/validation/downloads)](https://packagist.org/packages/nguyenanhung/validation) [![Latest Unstable Version](http://poser.pugx.org/nguyenanhung/validation/v/unstable)](https://packagist.org/packages/nguyenanhung/validation) [![License](http://poser.pugx.org/nguyenanhung/validation/license)](https://packagist.org/packages/nguyenanhung/validation) [![PHP Version Require](http://poser.pugx.org/nguyenanhung/validation/require/php)](https://packagist.org/packages/nguyenanhung/validation)
 
 # Template start helper, library
 
@@ -6,7 +6,7 @@ Template for repository helper, library - Basic, Simple and Lightweight
 
 ## Use this Template
 
-First, you can `Use this template` for new project: [Use this template](https://github.com/nguyenanhung/template-php-lib/generate)
+First, you can `Use this template` for new project: [Use this template](https://github.com/nguyenanhung/validation/generate)
 
 Second, clone your project to your to path in your machine
 
@@ -15,7 +15,7 @@ Finally, your edit file `composer.json` in root folder of project
 ```json
 {
     "type": "library",
-    "name": "nguyenanhung/template-php-lib",
+    "name": "nguyenanhung/validation",
     "description": "Template for repository helper, library - Basic, Simple and Lightweight",
     "keywords": [
         "template",
@@ -23,7 +23,7 @@ Finally, your edit file `composer.json` in root folder of project
         "library",
         "php"
     ],
-    "homepage": "https://github.com/nguyenanhung/template-php-lib",
+    "homepage": "https://github.com/nguyenanhung/validation",
     "license": "MIT",
     "minimum-stability": "stable",
     "authors": [
