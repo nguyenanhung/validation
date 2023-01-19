@@ -10,12 +10,12 @@ GUMP is open-source since 2013.
     + [Short format example for validations](#short-format-example-for-validations)
     + [Short format example for filtering](#short-format-example-for-filtering)
     + [Long format example](#long-format-example)
-    * [:star: Available Validators](#-star--available-validators)
-    * [:star: Available Filters](#-star--available-filters)
+    * [:star: Available Validators](#star-available-validators)
+    * [:star: Available Filters](#star-available-filters)
         - [Other Available Methods](#other-available-methods)
         + [Creating your own validators and filters](#creating-your-own-validators-and-filters)
     * [Global configuration](#global-configuration)
-    * [Contact & Support](#contact---support)
+    * [Contact & Support](#contact--support)
 
 
 #### Install with composer
