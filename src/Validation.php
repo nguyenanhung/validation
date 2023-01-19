@@ -14,5 +14,4 @@ use GUMP;
 
 class Validation extends GUMP
 {
-
 }

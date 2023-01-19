@@ -5,6 +5,19 @@
 Is a standalone PHP data validation and filtering class that makes validating any data easy and painless without the reliance on a framework.
 GUMP is open-source since 2013.
 
+- [Validation Library](#validation-library)
+  - [Install with composer](#install-with-composer)
+    + [Short format example for validations](#short-format-example-for-validations)
+    + [Short format example for filtering](#short-format-example-for-filtering)
+    + [Long format example](#long-format-example)
+    * [:star: Available Validators](#-star--available-validators)
+    * [:star: Available Filters](#-star--available-filters)
+        - [Other Available Methods](#other-available-methods)
+        + [Creating your own validators and filters](#creating-your-own-validators-and-filters)
+    * [Global configuration](#global-configuration)
+    * [Contact & Support](#contact---support)
+
+
 #### Install with composer
 
 ```
@@ -116,7 +129,6 @@ $is_valid = Validation::is_valid(array_merge($_POST, $_FILES), [
 ]);
 ```
 
-
 <div id="available_validators">
 
 | Rule                                                                           | Description                                                                                                                                                                                               |
@@ -165,6 +177,7 @@ $is_valid = Validation::is_valid(array_merge($_POST, $_FILES), [
 | **valid_array_size_lesser**,1                                                  | Check if an input is an array and if the size is less or equal to a specific value.                                                                                                                       |
 | **valid_array_size_equal**,1                                                   | Check if an input is an array and if the size is equal to a specific value.                                                                                                                               |
 | **valid_twitter**                                                              | Determine if the provided value is a valid Twitter account.                                                                                                                                               |
+
 </div>
 
 :star: Available Filters

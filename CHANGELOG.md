@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## [1.0.1] - 2023/01/19
+
+### Update
+
+- [x] Update GUMP v2.0
+
 ## [1.0.0] - 2022/07/04
 
 ### Added

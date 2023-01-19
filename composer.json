@@ -21,7 +21,7 @@
     ],
     "require": {
         "php": ">=7.0",
-        "wixel/gump": "^1.12"
+        "wixel/gump": "^2.0 || ^1.12"
     },
     "autoload": {
         "psr-4": {
