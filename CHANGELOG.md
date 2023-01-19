@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## [1.0.2] - 2023/01/19
+
+### Update
+
+- [x] Update GitHub Workflows
+
 ## [1.0.1] - 2023/01/19
 
 ### Update
