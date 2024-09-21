@@ -1,4 +1,9 @@
-[![Latest Stable Version](http://poser.pugx.org/nguyenanhung/validation/v)](https://packagist.org/packages/nguyenanhung/validation) [![Total Downloads](http://poser.pugx.org/nguyenanhung/validation/downloads)](https://packagist.org/packages/nguyenanhung/validation) [![Latest Unstable Version](http://poser.pugx.org/nguyenanhung/validation/v/unstable)](https://packagist.org/packages/nguyenanhung/validation) [![License](http://poser.pugx.org/nguyenanhung/validation/license)](https://packagist.org/packages/nguyenanhung/validation) [![PHP Version Require](http://poser.pugx.org/nguyenanhung/validation/require/php)](https://packagist.org/packages/nguyenanhung/validation)
+[![Latest Stable Version](https://img.shields.io/packagist/v/nguyenanhung/validation.svg?style=flat-square)](https://packagist.org/packages/nguyenanhung/validation)
+[![Total Downloads](https://img.shields.io/packagist/dt/nguyenanhung/validation.svg?style=flat-square)](https://packagist.org/packages/nguyenanhung/validation)
+[![Daily Downloads](https://img.shields.io/packagist/dd/nguyenanhung/validation.svg?style=flat-square)](https://packagist.org/packages/nguyenanhung/validation)
+[![Monthly Downloads](https://img.shields.io/packagist/dm/nguyenanhung/validation.svg?style=flat-square)](https://packagist.org/packages/nguyenanhung/validation)
+[![License](https://img.shields.io/packagist/l/nguyenanhung/validation.svg?style=flat-square)](https://packagist.org/packages/nguyenanhung/validation)
+[![PHP Version Require](https://img.shields.io/packagist/dependency-v/nguyenanhung/validation/php)](https://packagist.org/packages/nguyenanhung/validation)
 
 # Validation Library
 
